@@ -1,11 +1,11 @@
 # MSc Thesis Scripts
 Scripts for my MSc thesis. Data downloaded as NetCDF files from Copernicus [ERA5](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels) and [ERA5-Land](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land-monthly-means). 
 
-The data were prepared with the scripts in [data_preprocessing](https://github.com/Giulia-Sg/Thesis/tree/main/data_preprocessing). 
+The data were prepared with the scripts in [data_preprocessing](https://github.com/giuliasturlese/Sturlese-2024-MSc-Thesis/tree/main/data_preprocessing). 
 
-The functions used in the analyses are in [thesis_functions.py](https://github.com/Giulia-Sg/Thesis/blob/main/thesis_functions.py). 
+The functions used in the analyses are in [thesis_functions.py](https://github.com/giuliasturlese/Sturlese-2024-MSc-Thesis/blob/main/thesis_functions.py). 
 
-The analyses are in [PV_potential.py](https://github.com/Giulia-Sg/Thesis/blob/main/PV_potential.py), [wind_potential.py](https://github.com/Giulia-Sg/Thesis/blob/main/wind_potential.py), [complementarity.py](https://github.com/Giulia-Sg/Thesis/blob/main/complementarity.py). 
+The analyses are in [PV_potential.py](https://github.com/giuliasturlese/Sturlese-2024-MSc-Thesis/blob/main/PV_potential.py), [wind_potential.py](https://github.com/giuliasturlese/Sturlese-2024-MSc-Thesis/blob/main/wind_potential.py), [complementarity.py](https://github.com/giuliasturlese/Sturlese-2024-MSc-Thesis/blob/main/complementarity.py). 
 
 ======
 
